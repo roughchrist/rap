@@ -44,160 +44,210 @@ Partial Class Form3
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(12, 34)
+        Me.Button1.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button1.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Location = New System.Drawing.Point(252, 91)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(56, 54)
+        Me.Button1.Size = New System.Drawing.Size(64, 64)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "1"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.Button1.UseVisualStyleBackColor = False
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(74, 34)
+        Me.Button2.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button2.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(252, 161)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(56, 54)
+        Me.Button2.Size = New System.Drawing.Size(64, 64)
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "2"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.Button2.UseVisualStyleBackColor = False
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(139, 34)
+        Me.Button3.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button3.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Location = New System.Drawing.Point(36, 91)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(56, 54)
+        Me.Button3.Size = New System.Drawing.Size(67, 64)
         Me.Button3.TabIndex = 2
         Me.Button3.Text = "3"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.Button3.UseVisualStyleBackColor = False
         '
         'Button4
         '
-        Me.Button4.Location = New System.Drawing.Point(12, 94)
+        Me.Button4.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button4.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button4.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button4.Location = New System.Drawing.Point(252, 302)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(56, 54)
+        Me.Button4.Size = New System.Drawing.Size(64, 64)
         Me.Button4.TabIndex = 3
         Me.Button4.Text = "4"
-        Me.Button4.UseVisualStyleBackColor = True
+        Me.Button4.UseVisualStyleBackColor = False
         '
         'Button5
         '
-        Me.Button5.Location = New System.Drawing.Point(201, 34)
+        Me.Button5.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button5.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button5.Location = New System.Drawing.Point(182, 231)
         Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(56, 54)
+        Me.Button5.Size = New System.Drawing.Size(64, 64)
         Me.Button5.TabIndex = 4
         Me.Button5.Text = "+"
-        Me.Button5.UseVisualStyleBackColor = True
+        Me.Button5.UseVisualStyleBackColor = False
         '
         'Button6
         '
-        Me.Button6.Location = New System.Drawing.Point(74, 94)
+        Me.Button6.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button6.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button6.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button6.Location = New System.Drawing.Point(109, 91)
         Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(56, 54)
+        Me.Button6.Size = New System.Drawing.Size(67, 64)
         Me.Button6.TabIndex = 5
         Me.Button6.Text = "5"
-        Me.Button6.UseVisualStyleBackColor = True
+        Me.Button6.UseVisualStyleBackColor = False
         '
         'Button7
         '
-        Me.Button7.Location = New System.Drawing.Point(139, 94)
+        Me.Button7.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button7.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button7.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button7.Location = New System.Drawing.Point(36, 161)
         Me.Button7.Name = "Button7"
-        Me.Button7.Size = New System.Drawing.Size(56, 54)
+        Me.Button7.Size = New System.Drawing.Size(67, 64)
         Me.Button7.TabIndex = 6
         Me.Button7.Text = "6"
-        Me.Button7.UseVisualStyleBackColor = True
+        Me.Button7.UseVisualStyleBackColor = False
         '
         'Button8
         '
-        Me.Button8.Location = New System.Drawing.Point(201, 94)
+        Me.Button8.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button8.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button8.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button8.Location = New System.Drawing.Point(182, 91)
         Me.Button8.Name = "Button8"
-        Me.Button8.Size = New System.Drawing.Size(56, 54)
+        Me.Button8.Size = New System.Drawing.Size(64, 64)
         Me.Button8.TabIndex = 7
         Me.Button8.Text = "-"
-        Me.Button8.UseVisualStyleBackColor = True
+        Me.Button8.UseVisualStyleBackColor = False
         '
         'Button9
         '
-        Me.Button9.Location = New System.Drawing.Point(12, 154)
+        Me.Button9.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button9.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button9.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button9.Location = New System.Drawing.Point(182, 161)
         Me.Button9.Name = "Button9"
-        Me.Button9.Size = New System.Drawing.Size(56, 54)
+        Me.Button9.Size = New System.Drawing.Size(64, 64)
         Me.Button9.TabIndex = 8
         Me.Button9.Text = "7"
-        Me.Button9.UseVisualStyleBackColor = True
+        Me.Button9.UseVisualStyleBackColor = False
         '
         'Button10
         '
-        Me.Button10.Location = New System.Drawing.Point(74, 154)
+        Me.Button10.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button10.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button10.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button10.Location = New System.Drawing.Point(36, 231)
         Me.Button10.Name = "Button10"
-        Me.Button10.Size = New System.Drawing.Size(56, 54)
+        Me.Button10.Size = New System.Drawing.Size(67, 64)
         Me.Button10.TabIndex = 9
         Me.Button10.Text = "8"
-        Me.Button10.UseVisualStyleBackColor = True
+        Me.Button10.UseVisualStyleBackColor = False
         '
         'Button11
         '
-        Me.Button11.Location = New System.Drawing.Point(139, 154)
+        Me.Button11.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button11.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button11.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button11.Location = New System.Drawing.Point(109, 161)
         Me.Button11.Name = "Button11"
-        Me.Button11.Size = New System.Drawing.Size(56, 54)
+        Me.Button11.Size = New System.Drawing.Size(67, 64)
         Me.Button11.TabIndex = 10
         Me.Button11.Text = "9"
-        Me.Button11.UseVisualStyleBackColor = True
+        Me.Button11.UseVisualStyleBackColor = False
         '
         'Button12
         '
-        Me.Button12.Location = New System.Drawing.Point(201, 154)
+        Me.Button12.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button12.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button12.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button12.Location = New System.Drawing.Point(109, 231)
         Me.Button12.Name = "Button12"
-        Me.Button12.Size = New System.Drawing.Size(56, 54)
+        Me.Button12.Size = New System.Drawing.Size(67, 64)
         Me.Button12.TabIndex = 11
         Me.Button12.Text = "*"
-        Me.Button12.UseVisualStyleBackColor = True
+        Me.Button12.UseVisualStyleBackColor = False
         '
         'Button13
         '
-        Me.Button13.Location = New System.Drawing.Point(12, 214)
+        Me.Button13.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button13.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button13.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button13.Location = New System.Drawing.Point(36, 301)
         Me.Button13.Name = "Button13"
-        Me.Button13.Size = New System.Drawing.Size(56, 54)
+        Me.Button13.Size = New System.Drawing.Size(67, 64)
         Me.Button13.TabIndex = 12
         Me.Button13.Text = "AC"
-        Me.Button13.UseVisualStyleBackColor = True
+        Me.Button13.UseVisualStyleBackColor = False
         '
         'Button14
         '
-        Me.Button14.Location = New System.Drawing.Point(74, 214)
+        Me.Button14.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button14.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button14.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button14.Location = New System.Drawing.Point(109, 301)
         Me.Button14.Name = "Button14"
-        Me.Button14.Size = New System.Drawing.Size(56, 54)
+        Me.Button14.Size = New System.Drawing.Size(67, 65)
         Me.Button14.TabIndex = 13
         Me.Button14.Text = "0"
-        Me.Button14.UseVisualStyleBackColor = True
+        Me.Button14.UseVisualStyleBackColor = False
         '
         'Button15
         '
-        Me.Button15.Location = New System.Drawing.Point(139, 214)
+        Me.Button15.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button15.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button15.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button15.Location = New System.Drawing.Point(182, 301)
         Me.Button15.Name = "Button15"
-        Me.Button15.Size = New System.Drawing.Size(56, 54)
+        Me.Button15.Size = New System.Drawing.Size(64, 64)
         Me.Button15.TabIndex = 14
         Me.Button15.Text = "="
-        Me.Button15.UseVisualStyleBackColor = True
+        Me.Button15.UseVisualStyleBackColor = False
         '
         'Button16
         '
-        Me.Button16.Location = New System.Drawing.Point(201, 214)
+        Me.Button16.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button16.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button16.Font = New System.Drawing.Font("MS UI Gothic", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button16.Location = New System.Drawing.Point(252, 231)
         Me.Button16.Name = "Button16"
-        Me.Button16.Size = New System.Drawing.Size(56, 54)
+        Me.Button16.Size = New System.Drawing.Size(64, 64)
         Me.Button16.TabIndex = 15
         Me.Button16.Text = "/"
-        Me.Button16.UseVisualStyleBackColor = True
+        Me.Button16.UseVisualStyleBackColor = False
         '
         'Button17
         '
-        Me.Button17.Location = New System.Drawing.Point(185, 274)
+        Me.Button17.BackColor = System.Drawing.Color.LemonChiffon
+        Me.Button17.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button17.Location = New System.Drawing.Point(144, 383)
         Me.Button17.Name = "Button17"
         Me.Button17.Size = New System.Drawing.Size(72, 25)
         Me.Button17.TabIndex = 16
         Me.Button17.Text = "Exit"
-        Me.Button17.UseVisualStyleBackColor = True
+        Me.Button17.UseVisualStyleBackColor = False
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(10, 8)
+        Me.TextBox1.Location = New System.Drawing.Point(57, 65)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(245, 20)
         Me.TextBox1.TabIndex = 17
@@ -206,7 +256,8 @@ Partial Class Form3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(267, 310)
+        Me.BackColor = System.Drawing.Color.YellowGreen
+        Me.ClientSize = New System.Drawing.Size(365, 453)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Button17)
         Me.Controls.Add(Me.Button16)
@@ -225,6 +276,7 @@ Partial Class Form3
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
+        Me.ForeColor = System.Drawing.SystemColors.ControlText
         Me.Name = "Form3"
         Me.Text = "Form3"
         Me.ResumeLayout(False)
