@@ -77,7 +77,7 @@ Partial Class Form2
         Me.Controls.Add(Me.Button1)
         Me.ForeColor = System.Drawing.SystemColors.ControlText
         Me.Name = "Form2"
-        Me.Text = "Form2"
+        Me.Text = "Menu"
         Me.ResumeLayout(False)
 
     End Sub

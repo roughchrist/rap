@@ -1,6 +1,6 @@
 ﻿Public Class Form1
-    Dim user As String = "a"
-    Dim pass As String = "a"
+    Dim user As String = "Admin"
+    Dim pass As String = "Admin123"
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
 

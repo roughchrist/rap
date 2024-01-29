@@ -264,7 +264,7 @@ Partial Class Form5
         Me.Controls.Add(Me.tile1)
         Me.Controls.Add(Me.startBtn)
         Me.Name = "Form5"
-        Me.Text = "Form5"
+        Me.Text = "Glass Game"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

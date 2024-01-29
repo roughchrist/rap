@@ -134,7 +134,7 @@
     Private Sub gameOver()
         isDone = True
         If isDone Then
-            Label1.Text = "You Loss!"
+            Label1.Text = "You Lose!"
             resetGame()
         End If
     End Sub
@@ -185,6 +185,7 @@
         Me.Close()
     End Sub
 
+    Private Sub Form5_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-
+    End Sub
 End Class

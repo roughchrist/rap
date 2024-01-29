@@ -139,7 +139,7 @@ Partial Class Form4
         Me.Controls.Add(Me.Button1)
         Me.ForeColor = System.Drawing.Color.Firebrick
         Me.Name = "Form4"
-        Me.Text = "Form4"
+        Me.Text = "Janken"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
