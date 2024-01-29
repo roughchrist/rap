@@ -1,6 +1,6 @@
 ﻿Public Class Form1
-    Dim user As String = "Admin"
-    Dim pass As String = "Admin123"
+    Dim user As String = "a"
+    Dim pass As String = "a"
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
 
@@ -15,6 +15,10 @@
             TextBox1.Text = ""
             TextBox2.Text = ""
         End If
+
+    End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
 
     End Sub
 End Class

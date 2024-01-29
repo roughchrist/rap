@@ -37,7 +37,7 @@ Partial Class Form4
         Me.Button1.BackColor = System.Drawing.Color.Khaki
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.Button1.Font = New System.Drawing.Font("Microsoft YaHei", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(210, 135)
+        Me.Button1.Location = New System.Drawing.Point(211, 133)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(88, 88)
         Me.Button1.TabIndex = 1
@@ -49,7 +49,7 @@ Partial Class Form4
         Me.Button2.BackColor = System.Drawing.Color.Khaki
         Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.Button2.Font = New System.Drawing.Font("Microsoft YaHei", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(22, 135)
+        Me.Button2.Location = New System.Drawing.Point(23, 133)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(88, 88)
         Me.Button2.TabIndex = 2
@@ -61,7 +61,7 @@ Partial Class Form4
         Me.Button3.BackColor = System.Drawing.Color.Khaki
         Me.Button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.Button3.Font = New System.Drawing.Font("Microsoft YaHei", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(116, 135)
+        Me.Button3.Location = New System.Drawing.Point(117, 133)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(88, 88)
         Me.Button3.TabIndex = 3
@@ -117,7 +117,7 @@ Partial Class Form4
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft YaHei", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Label1.Location = New System.Drawing.Point(100, 43)
+        Me.Label1.Location = New System.Drawing.Point(96, 24)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(125, 28)
         Me.Label1.TabIndex = 8
